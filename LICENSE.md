@@ -1,4 +1,4 @@
-# 
+# آمن JetBrains IntelliJ IDEA قوالب لـ Mac OS | خفيف JetBrains IntelliJ IDEA قوالب لـ PC Windows. مع متغيرات البيئة و إدارة الأحجام — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
